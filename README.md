@@ -8,3 +8,4 @@ Awesome list of resources about optimal transport
  [code](https://github.com/iamalexkorotin/NeuralOptimalTransport), [slide](https://drive.google.com/file/d/1ce-Ge7IaA3_K5DVwa5cRbdxO9yFMBvh1/view)
  
  
+[Generative Modeling with Optimal Transport Maps](https://github.com/LituRout/OptimalTransportModeling)
